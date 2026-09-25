@@ -1,2 +1,2 @@
-# js
-first ep
+# E-commerce website
+project using mern stack
